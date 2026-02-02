@@ -1,0 +1,20 @@
+body {
+  background-color: #1db954; /* Spotify green */
+}
+
+/* Main card */
+.downloader-card {
+  width: 420px;
+  border-radius: 16px;
+  box-shadow: 0 20px 45px rgba(0, 0, 0, 0.25);
+}
+
+/* FIXED song cover size */
+.song-cover {
+  width: 100%;
+  max-width: 150px;
+  max-height: 260px;
+  object-fit: cover;
+  margin: 0 auto;
+  display: block;
+}
