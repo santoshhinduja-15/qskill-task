@@ -34,8 +34,10 @@ It focuses on clean UI, proper error handling, and a smooth user experience.
 ## Purpose
 These tasks were created as part of an internship assignment to demonstrate frontend development skills, UI/UX understanding, and practical implementation of JavaScript and third-party APIs.
 
-## Screenshots
+## Screenshots of Task-1
 <img width="1919" height="853" alt="image" src="https://github.com/user-attachments/assets/561bd837-4f62-49c3-af2a-2c4789c01de9" />
 <img width="1919" height="853" alt="image" src="https://github.com/user-attachments/assets/b00d53e9-c196-4d06-99aa-2dff25e35367" />
+
+## Screenshots of Task-2
 <img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/36edcb33-420b-4203-a5e6-5b3c0b74e146" />
 <img width="1919" height="855" alt="image" src="https://github.com/user-attachments/assets/65793ef7-9b5c-492c-ad3a-66db0181243f" />
