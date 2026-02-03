@@ -36,8 +36,12 @@ These tasks were created as part of an internship assignment to demonstrate fron
 
 ## Screenshots of Task-1
 <img width="1919" height="853" alt="image" src="https://github.com/user-attachments/assets/561bd837-4f62-49c3-af2a-2c4789c01de9" />
-<img width="1919" height="853" alt="image" src="https://github.com/user-attachments/assets/b00d53e9-c196-4d06-99aa-2dff25e35367" />
+<img width="1919" height="862" alt="image" src="https://github.com/user-attachments/assets/8477aa74-16f1-4912-96e7-293756a617b7" />
+<img width="1919" height="863" alt="image" src="https://github.com/user-attachments/assets/8806bb8c-2b5c-47e7-9ee2-fd44227076b5" />
+<img width="1919" height="859" alt="image" src="https://github.com/user-attachments/assets/b3be9aec-bf59-4bd0-8193-87339496df40" />
+<img width="1919" height="859" alt="image" src="https://github.com/user-attachments/assets/dd64bcff-f878-4828-bf4a-f471d770dad9" />
 
 ## Screenshots of Task-2
 <img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/36edcb33-420b-4203-a5e6-5b3c0b74e146" />
+<img width="1919" height="858" alt="image" src="https://github.com/user-attachments/assets/d06cbcb6-7b6d-41e4-b982-e08dc6b1def4" />
 <img width="1919" height="855" alt="image" src="https://github.com/user-attachments/assets/65793ef7-9b5c-492c-ad3a-66db0181243f" />
